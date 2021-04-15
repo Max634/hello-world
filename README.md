@@ -1,2 +1,7 @@
-# hello-world
-This code will help people to learn and understand the C++ language. 
+#include <iostream>
+  using namespace std;
+  int main ()
+  {
+  cout << "Hello world";
+  return 0;
+  }
